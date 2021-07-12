@@ -1,0 +1,19 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    height: 100%;
+    background-color: blueviolet;
+     
+}
+input ,select,button{
+    display: block;
+    margin-top: 1%;
+}
+div{
+    width: auto;
+    border: 2px solid tan;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
